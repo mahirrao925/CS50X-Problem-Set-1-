@@ -1,4 +1,4 @@
-# CS50X-Problem-Set-1-
+# CS50X-Problem-Set-1
 The Problem Set consists of 3 Sub Problem Sets
 * Hello
 * Mario
